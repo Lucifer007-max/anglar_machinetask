@@ -1,6 +1,8 @@
 # AdGridIntigration
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.10.
+
+This project requires Node JS version 18.17.0
 
 ## Development server
 
