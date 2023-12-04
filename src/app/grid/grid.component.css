@@ -1,0 +1,9 @@
+.bg-dark {
+  background-color: #101a20  !important;
+}
+.text-light{
+  color: #fff;
+  text-align: center;
+  border-bottom: 1px solid  #fff;
+  padding-bottom: 1rem ;
+}

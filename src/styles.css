@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~ag-grid-community/styles//ag-grid.css";
+@import "~ag-grid-community/styles//ag-theme-quartz.css";
+
+
+a{
+ color: #fff;
+ text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+  color: yellow;
+}
+
+body{
+  background-color: #101a20  !important;
+}
